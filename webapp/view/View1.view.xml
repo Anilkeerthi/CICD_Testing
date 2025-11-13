@@ -1,0 +1,7 @@
+<mvc:View controllerName="com.cicd.cicdtest.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+    <Title id="cicd" text="Continuous Integration and Continuous Delivery"></Title>
+    </Page>
+</mvc:View>
