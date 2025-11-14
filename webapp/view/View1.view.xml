@@ -3,5 +3,6 @@
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
     <Title id="cicd" text="Continuous Integration and Continuous Delivery"></Title>
+    <Text id="text" text="CICD"></Text>
     </Page>
 </mvc:View>
